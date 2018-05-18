@@ -77,5 +77,21 @@ module.exports = __webpack_require__(1);
 "use strict";
 
 
+__webpack_require__(2);
+
+/***/ }),
+/* 2 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+function test() {
+	var a = 1;
+	console.log(a);
+}
+
+test();
+
 /***/ })
 /******/ ]);
